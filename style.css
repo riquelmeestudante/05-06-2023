@@ -1,7 +1,9 @@
 :root{
---cor-de-fundo: #bbbbbb;
+--cor-de-fundo: #EBECEE;
 } 
 
-body {}
-   backgruond_-color: var(--cor-de-fundo);
-   {}
+body {background-color: var(--cor-de-fundo)}
+
+h1 {
+   background-color:white;
+}
